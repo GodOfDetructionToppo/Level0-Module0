@@ -7,8 +7,8 @@ public class MyJavaProgram {
 	public static void main(String[] args) {
 		
 		// START HERE
+	Robot rob=new Robot();
+		rob.setX(666);
 	
-		
-		
 	}
 }
